@@ -7,6 +7,6 @@ namespace StarWarsPlanetNames.Services
 {
     public class PlanetNameResponse
     {
-        public string Name { get; set; }
+        public string name { get; set; }
     }
 }
