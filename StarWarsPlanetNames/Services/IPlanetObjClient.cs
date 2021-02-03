@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace StarWarsPlanetNames.Services
 {
-    public interface IPlanetNameClient
+    public interface IPlanetObjClient
     {
-        Task<PlanetModel> GetPlanetName();
+        Task<PlanetModel> GetPlanetInfo();
     }
 }

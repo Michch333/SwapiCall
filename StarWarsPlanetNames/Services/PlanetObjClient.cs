@@ -8,15 +8,15 @@ using System.Threading.Tasks;
 
 namespace StarWarsPlanetNames.Services
 {
-    public class PlanetNameClient : IPlanetNameClient
+    public class PlanetObjClient : IPlanetObjClient
     {
         private readonly HttpClient _client;
 
-        public PlanetNameClient(HttpClient client)
+        public PlanetObjClient(HttpClient client)
         {
             _client = client;
         }
-        public async Task<PlanetModel> GetPlanetName()
+        public async Task<PlanetModel> GetPlanetInfo()
         {
             var results = await _client.GetAsync($"planets/");
             if (results.IsSuccessStatusCode)

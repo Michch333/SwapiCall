@@ -1,3 +1,10 @@
+C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.AssemblyInfo.cs
+C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.RazorAssemblyInfo.cache
+C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.RazorAssemblyInfo.cs
 C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\bin\Debug\netcoreapp3.1\StarWarsPlanetNames.exe
@@ -10,19 +17,12 @@ C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\bin\Debug\ne
 C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\bin\Debug\netcoreapp3.1\StarWarsPlanetNames.Views.pdb
 C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\bin\Debug\netcoreapp3.1\SWapiCSharp.dll
-C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.AssemblyInfoInputs.cache
-C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.AssemblyInfo.cs
-C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.csproj.CoreCompileInputs.cache
-C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.RazorAssemblyInfo.cache
-C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.RazorAssemblyInfo.cs
 C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\staticwebassets\StarWarsPlanetNames.StaticWebAssets.Manifest.cache
 C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\staticwebassets\StarWarsPlanetNames.StaticWebAssets.xml
 C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\scopedcss\bundle\StarWarsPlanetNames.styles.css
 C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.TagHelpers.input.cache
 C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.TagHelpers.output.cache
 C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.RazorCoreGenerate.cache
-C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\Razor\Views\PlanetName\PlanetName.cshtml.g.cs
 C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -35,4 +35,4 @@ C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\ne
 C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.dll
 C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.pdb
 C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.genruntimeconfig.cache
-C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\Razor\Views\PlanetName\PlanetObj.cshtml.g.cs

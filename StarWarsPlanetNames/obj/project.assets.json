@@ -83,9 +83,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jason\\source\\repos\\StarWarsPlanetNames\\StarWarsPlanetNames\\StarWarsPlanetNames.csproj",
-      "projectName": "StarWarsPlanetNames",
-      "projectPath": "C:\\Users\\Jason\\source\\repos\\StarWarsPlanetNames\\StarWarsPlanetNames\\StarWarsPlanetNames.csproj",
+      "projectUniqueName": "C:\\Users\\Jason\\source\\repos\\StarWarsPlanetNames\\StarWarsPlanetNames\\StarWarsApi.csproj",
+      "projectName": "StarWarsApi",
+      "projectPath": "C:\\Users\\Jason\\source\\repos\\StarWarsPlanetNames\\StarWarsPlanetNames\\StarWarsApi.csproj",
       "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Jason\\source\\repos\\StarWarsPlanetNames\\StarWarsPlanetNames\\obj\\",
       "projectStyle": "PackageReference",

@@ -24,7 +24,7 @@ namespace StarWarsPlanetNames
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddHttpClient<IPlanetNameClient, PlanetNameClient>(httpClient =>
+            services.AddHttpClient<IPlanetObjClient, PlanetObjClient>(httpClient =>
             {
                 httpClient.BaseAddress = new Uri("https://swapi.dev/api/");
                 httpClient.Timeout = TimeSpan.FromSeconds(45);
@@ -58,7 +58,7 @@ namespace StarWarsPlanetNames
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=PlanetName}/{action=PlanetName}/{id?}");
+                    pattern: "{controller=PlanetName}/{action=PlanetObj}/{id?}");
             });
         }
     }

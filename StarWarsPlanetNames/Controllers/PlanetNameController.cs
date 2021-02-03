@@ -10,14 +10,14 @@ namespace StarWarsPlanetNames.Controllers
 {
     public class PlanetNameController : Controller
     {
-        private readonly IPlanetNameClient _planetNameClient;
-        public PlanetNameController(IPlanetNameClient planetNameClient)
+        private readonly IPlanetObjClient _planetNameClient;
+        public PlanetNameController(IPlanetObjClient planetNameClient)
         {
             _planetNameClient = planetNameClient;
         }
-        public async Task<IActionResult> PlanetName()
+        public async Task<IActionResult> PlanetObj()
         {
-            var response = await _planetNameClient.GetPlanetName();
+            var response = await _planetNameClient.GetPlanetInfo();
             var model = new PlanetModel();
             model.results = response.results;
 
