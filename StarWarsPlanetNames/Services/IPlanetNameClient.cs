@@ -7,6 +7,6 @@ namespace StarWarsPlanetNames.Services
 {
     public interface IPlanetNameClient
     {
-        Task<PlanetNameResponse> GetPlanetName(string planetName = "Tatooine");
+        Task<PlanetNameResponse> GetPlanetName();
     }
 }

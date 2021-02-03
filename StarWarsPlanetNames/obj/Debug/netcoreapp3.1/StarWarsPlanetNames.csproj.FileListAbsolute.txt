@@ -35,3 +35,4 @@ C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\ne
 C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.dll
 C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.pdb
 C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.genruntimeconfig.cache
+C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.csprojAssemblyReference.cache

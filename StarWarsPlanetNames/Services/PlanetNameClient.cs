@@ -15,9 +15,9 @@ namespace StarWarsPlanetNames.Services
         {
             _client = client;
         }
-        public async Task<PlanetNameResponse> GetPlanetName(string planetName= "Tatooine")
+        public async Task<PlanetNameResponse> GetPlanetName()
         {
-            var results = await _client.GetAsync($"planets/?search={planetName}");
+            var results = await _client.GetAsync($"planets/");
             if (results.IsSuccessStatusCode)
             {
                 var stringContent = await results.Content.ReadAsStringAsync();
