@@ -26,7 +26,7 @@ namespace StarWarsPlanetNames
         {
             services.AddHttpClient<IPlanetNameClient, PlanetNameClient>(httpClient =>
             {
-                httpClient.BaseAddress = new Uri("https://swapi.dev");
+                httpClient.BaseAddress = new Uri("https://swapi.dev/api/");
                 httpClient.Timeout = TimeSpan.FromSeconds(45);
 
             });
@@ -58,7 +58,7 @@ namespace StarWarsPlanetNames
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=PlanetName}/{action=Index}/{id?}");
+                    pattern: "{controller=PlanetName}/{action=PlanetName}/{id?}");
             });
         }
     }

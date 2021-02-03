@@ -17,7 +17,7 @@ namespace StarWarsPlanetNames.Services
         }
         public async Task<PlanetNameResponse> GetPlanetName()
         {
-            var results = await _client.GetAsync("/api/planets/1/");
+            var results = await _client.GetAsync("planets/1");
             if (results.IsSuccessStatusCode)
             {
                 var stringContent = await results.Content.ReadAsStringAsync();

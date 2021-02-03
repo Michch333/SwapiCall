@@ -12,7 +12,7 @@ namespace StarWarsPlanetNames.Models
         public string terrain { get; set; }
         public string orbital_period { get; set; }
         public IEnumerable<string> residents { get; set; }
-        public string name { get; set; }
+        public string Name { get; set; }
         public string surface_water { get; set; }
         public string gravity { get; set; }
         public IEnumerable<string> films { get; set; }

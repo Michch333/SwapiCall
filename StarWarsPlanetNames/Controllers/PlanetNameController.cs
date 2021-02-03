@@ -18,7 +18,7 @@ namespace StarWarsPlanetNames.Controllers
         public async Task<IActionResult> PlanetName()
         {
             var response = await _planetNameClient.GetPlanetName();
-            var model = new PlanetNameViewModel();
+            var model = new PlanetModel();
 
             return View(model);
         }
