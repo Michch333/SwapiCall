@@ -1,4 +1,5 @@
-﻿using System;
+﻿using StarWarsPlanetNames.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net.Http;
@@ -15,7 +16,7 @@ namespace StarWarsPlanetNames.Services
         {
             _client = client;
         }
-        public async Task<PlanetNameResponse> GetPlanetName()
+        public async Task<PlanetModel> GetPlanetName()
         {
             var results = await _client.GetAsync($"planets/");
             if (results.IsSuccessStatusCode)
@@ -26,7 +27,7 @@ namespace StarWarsPlanetNames.Services
                 {
                     PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
                 };
-                var obj = JsonSerializer.Deserialize<PlanetNameResponse>(stringContent, toCamelCase);
+                var obj = JsonSerializer.Deserialize<PlanetModel>(stringContent, toCamelCase);
                 return obj;
             
             }

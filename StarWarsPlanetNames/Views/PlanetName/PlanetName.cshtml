@@ -6,6 +6,9 @@
 }
 @model PlanetModel
 
-{
-    <p> @Model.name</p>
+@foreach (var planet in Model.results)
+{ 
+    <p>@planet.name</p>
 }
+    
+@*<p>@Model.results.ToString()</p>*@

@@ -19,6 +19,7 @@ namespace StarWarsPlanetNames.Controllers
         {
             var response = await _planetNameClient.GetPlanetName();
             var model = new PlanetModel();
+            model.results = response.results;
 
             return View(model);
         }
