@@ -1,0 +1,7 @@
+C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.csprojAssemblyReference.cache
+C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.AssemblyInfo.cs
+C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.csproj.CoreCompileInputs.cache
+C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.RazorAssemblyInfo.cache
+C:\Users\Jason\source\repos\StarWarsPlanetNames\StarWarsPlanetNames\obj\Debug\netcoreapp3.1\StarWarsPlanetNames.RazorAssemblyInfo.cs
