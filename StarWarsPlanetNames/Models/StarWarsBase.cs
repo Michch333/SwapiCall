@@ -10,5 +10,6 @@ namespace StarWarsPlanetNames.Models
         public string url { get; set; }
         public string created { get; set; }
         public string edited { get; set; }
+
     }
 }

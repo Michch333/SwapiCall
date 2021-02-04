@@ -1,14 +1,21 @@
-﻿
-@*
+﻿@*
     For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 *@
 @{
 }
+     
 @model PlanetModel
 
+
 @foreach (var planet in Model.results)
-{ 
-    <p>@planet.name</p>
-}
+{
+    <h1>@planet.name</h1>
+    <p>@planet.residents.</p>
     
+
+   
+}
+<a href="@Model.next">next page</a>
+
+
 @*<p>@Model.results.ToString()</p>*@
