@@ -16,9 +16,10 @@ namespace StarWarsPlanetNames.Services
         {
             _client = client;
         }
-        public async Task<PlanetModel> GetPlanetInfo()
+        
+        public async Task<PlanetModel> GetPlanetInfo(int page)
         {
-            var results = await _client.GetAsync($"planets/");
+            var results = await _client.GetAsync($"planets/?page={page}");
             if (results.IsSuccessStatusCode)
             {
                 var stringContent = await results.Content.ReadAsStringAsync();

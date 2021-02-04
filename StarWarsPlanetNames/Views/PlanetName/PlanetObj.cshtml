@@ -10,12 +10,10 @@
 @foreach (var planet in Model.results)
 {
     <h1>@planet.name</h1>
-    <p>@planet.residents.</p>
-    
 
    
 }
-<a href="@Model.next">next page</a>
+<a asp-controller="PlanetName" asp-action="PageIncrementer">next page</a>
 
 
 @*<p>@Model.results.ToString()</p>*@

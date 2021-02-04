@@ -18,6 +18,8 @@ namespace StarWarsPlanetNames.Controllers
             var model = new PeopleModel();
             model.name = response.name;
 
+
+
             return View(model);
         }
     }

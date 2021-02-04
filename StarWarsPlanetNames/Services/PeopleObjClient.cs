@@ -13,9 +13,9 @@ namespace StarWarsPlanetNames.Services
         {
             _client = client;
         }
-        public async Task<PeopleModel> GetPeopleInfo()
+        public async Task<PeopleModel> GetPeopleInfo(string page ="1")
         {
-            var results = await _client.GetAsync($"people/");
+            var results = await _client.GetAsync($"people/?page={page}");
             if (results.IsSuccessStatusCode)
             {
                 var stringContent = await results.Content.ReadAsStringAsync();
@@ -30,7 +30,7 @@ namespace StarWarsPlanetNames.Services
             }
             else
             {
-                throw new HttpRequestException("no onse here maybe its Alderaan");
+                throw new HttpRequestException("noones here maybe its Alderaan");
 
             }
 
