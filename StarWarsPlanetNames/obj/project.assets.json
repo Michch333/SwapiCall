@@ -78,19 +78,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jason\\.nuget\\packages\\": {}
+    "C:\\Users\\Mike\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jason\\source\\repos\\StarWarsPlanetNames\\StarWarsPlanetNames\\StarWarsApi.csproj",
+      "projectUniqueName": "C:\\Users\\Mike\\Desktop\\Coding\\Jason\\SwapiCall\\StarWarsPlanetNames\\StarWarsApi.csproj",
       "projectName": "StarWarsApi",
-      "projectPath": "C:\\Users\\Jason\\source\\repos\\StarWarsPlanetNames\\StarWarsPlanetNames\\StarWarsApi.csproj",
-      "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jason\\source\\repos\\StarWarsPlanetNames\\StarWarsPlanetNames\\obj\\",
+      "projectPath": "C:\\Users\\Mike\\Desktop\\Coding\\Jason\\SwapiCall\\StarWarsPlanetNames\\StarWarsApi.csproj",
+      "packagesPath": "C:\\Users\\Mike\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mike\\Desktop\\Coding\\Jason\\SwapiCall\\StarWarsPlanetNames\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mike\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -102,7 +102,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -114,7 +113,6 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "SWapiCSharp": {
             "target": "Package",
@@ -139,7 +137,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.405\\RuntimeIdentifierGraph.json"
       }
     }
   },
