@@ -83,11 +83,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jason\\source\\repos\\StarWarsPlanetNames\\StarWarsPlanetNames\\StarWarsApi.csproj",
+      "projectUniqueName": "C:\\Users\\Jason\\source\\repos\\SwapiCall\\StarWarsPlanetNames\\StarWarsApi.csproj",
       "projectName": "StarWarsApi",
-      "projectPath": "C:\\Users\\Jason\\source\\repos\\StarWarsPlanetNames\\StarWarsPlanetNames\\StarWarsApi.csproj",
+      "projectPath": "C:\\Users\\Jason\\source\\repos\\SwapiCall\\StarWarsPlanetNames\\StarWarsApi.csproj",
       "packagesPath": "C:\\Users\\Jason\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jason\\source\\repos\\StarWarsPlanetNames\\StarWarsPlanetNames\\obj\\",
+      "outputPath": "C:\\Users\\Jason\\source\\repos\\SwapiCall\\StarWarsPlanetNames\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jason\\AppData\\Roaming\\NuGet\\NuGet.Config",

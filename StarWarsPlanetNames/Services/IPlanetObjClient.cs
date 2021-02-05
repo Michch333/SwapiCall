@@ -8,6 +8,6 @@ namespace StarWarsPlanetNames.Services
 {
     public interface IPlanetObjClient
     {
-        Task<PlanetModel> GetPlanetInfo(int page);
+        Task<PeoplePlanetCombinedModel> GetPlanetInfo(int page);
     }
 }

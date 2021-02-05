@@ -4,10 +4,10 @@
 @{
 }
      
-@model PlanetModel
+@model PeoplePlanetCombinedModel
 
 
-@foreach (var planet in Model.results)
+@foreach (var planet in Model.PlanetModel.results)
 {
     <h1>@planet.name</h1>
 

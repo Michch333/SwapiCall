@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace StarWarsPlanetNames.Models
 {
@@ -13,7 +10,8 @@ namespace StarWarsPlanetNames.Models
         public string next { get; set; }
         public object previous { get; set; }
         public Result[] results { get; set; }
-      
+        
+
 
         public class Result
         {

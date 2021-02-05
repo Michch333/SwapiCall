@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Vde6F6kF3Y3QLQ2/a/aULMcerstcBiFoz7ZgcjeWr/8JX5RI+3paY1POBaVM7HThBrrw3abb+HkJTtYG9zooLA==",
+  "dgSpecHash": "ML2pPejFcPEOnoP74XKtOvOOUXUinjCHJqU/D4LOAaw9fZoaic3tRwAr2ew6DzU2+9XacwURlkGqYeNAhfmpuw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Jason\\source\\repos\\StarWarsPlanetNames\\StarWarsPlanetNames\\StarWarsApi.csproj",
+  "projectFilePath": "C:\\Users\\Jason\\source\\repos\\SwapiCall\\StarWarsPlanetNames\\StarWarsApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jason\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Jason\\.nuget\\packages\\swapicsharp\\1.2.0\\swapicsharp.1.2.0.nupkg.sha512"

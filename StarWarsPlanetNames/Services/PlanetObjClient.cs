@@ -17,7 +17,7 @@ namespace StarWarsPlanetNames.Services
             _client = client;
         }
         
-        public async Task<PlanetModel> GetPlanetInfo(int page)
+        public async Task<PeoplePlanetCombinedModel> GetPlanetInfo(int page)
         {
             var results = await _client.GetAsync($"planets/?page={page}");
             if (results.IsSuccessStatusCode)
@@ -28,7 +28,7 @@ namespace StarWarsPlanetNames.Services
                 {
                     PropertyNamingPolicy = JsonNamingPolicy.CamelCase,
                 };
-                var obj = JsonSerializer.Deserialize<PlanetModel>(stringContent, toCamelCase);
+                var obj = JsonSerializer.Deserialize<PeoplePlanetCombinedModel>(stringContent, toCamelCase);
                 return obj;
             
             }
